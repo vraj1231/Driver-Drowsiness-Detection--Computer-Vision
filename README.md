@@ -1,4 +1,4 @@
-# Driver-Drowsiness-Detection--Computer-Vision
+# Driver Drowsiness Detection System 
 
 ### Motivation 
 Drowsiness detection is a car safety technology that helps prevent accidents caused by drivers who fell asleep while driving.
