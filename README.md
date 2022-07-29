@@ -1,5 +1,7 @@
 # Driver Drowsiness Detection System 
 
+### Blog Post: https://medium.com/@mistryvraj3198/driver-drowsiness-detection-computer-vision-b6a20be3931a
+
 ### Motivation 
 Drowsiness detection is a car safety technology that helps prevent accidents caused by drivers who fell asleep while driving.
 According to NHTSA (National Highway Traffic Safety Administration), 91,000 police-reported crashes involved drowsy drivers. These crashes led to an estimated 50,000 people injured and nearly 800 deaths in 2017.
